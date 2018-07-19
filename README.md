@@ -9,4 +9,4 @@ Delaunay三角：https://www.learnopencv.com/delaunay-triangulation-and-voronoi-
 
 landmark_creat文件就是从图片中提取出特征点，一个68*2的数组
 
-下边是在网上随便找的5张图片，做的平均脸：
+
